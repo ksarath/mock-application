@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Mock component changes the class when hovered 1`] = `
+<div
+  className="normal"
+>
+  <img
+    alt="Mock Application Image"
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    src="test-file-stub"
+  />
+</div>
+`;
+
+exports[`Mock component changes the class when hovered 2`] = `
+<div
+  className="hovered"
+>
+  <img
+    alt="Mock Application Image"
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    src="test-file-stub"
+  />
+</div>
+`;
+
+exports[`Mock component changes the class when hovered 3`] = `
+<div
+  className="normal"
+>
+  <img
+    alt="Mock Application Image"
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    src="test-file-stub"
+  />
+</div>
+`;
